@@ -1,11 +1,49 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 🔒 Confidential & Proprietary Project
 
-  <h1>Built with AI Studio</h2>
+## ⚠️ IMPORTANT NOTICE
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+This repository contains **confidential, proprietary, and sensitive information** maintained by a **large professional organization**.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+---
 
-</div>
+## 🚫 Restricted Access
+
+- This project is **NOT open-source**
+- Unauthorized access, copying, modification, or distribution is **strictly prohibited**
+- Intended **only for authorized personnel**
+
+---
+
+## 🏢 Ownership & Control
+
+All content, source code, documentation, and assets in this repository are the **exclusive property of the owning company**.
+
+Any form of:
+- Reverse engineering  
+- Reproduction  
+- Public disclosure  
+
+without **written permission** is a violation of company policy and applicable laws.
+
+---
+
+## 🔐 Security & Compliance
+
+This project follows:
+- Enterprise-level security standards  
+- Internal confidentiality agreements  
+- Corporate compliance policies  
+
+All activities are **monitored and audited**.
+
+---
+
+## 📩 Contact
+
+For authorized access or official inquiries, please contact the **project administrator or company management** through approved communication channels.
+
+---
+
+© All Rights Reserved.  
+Unauthorized use will lead to **strict legal action**.
